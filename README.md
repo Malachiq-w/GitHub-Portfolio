@@ -8,6 +8,6 @@ Detailed description.
 
 ![RunningCalculator](https://github.com/Malachiq-w/GitHub-Portfolio/blob/main/images/calc.png?raw=true)
 
-* [Windows]()
+* [Windows](https://github.com/Malachiq-w/GitHub-Portfolio/blob/main/src/Calculator/windows-amd64.zip)
 * [MacOS]()
 * [Source Code]()
