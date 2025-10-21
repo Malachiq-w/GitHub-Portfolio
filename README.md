@@ -4,7 +4,7 @@
 
 ### Calculator (2025)
 
-Detailed description.
+This Processing sketch (based on Java) implements a fully functional GUI calculator created by Malachi Chaya on 25 September 2025. The program supports basic arithmetic operations, as well as some advanced functions like squaring, square roots, powers, absolute values, and sign flipping.
 
 ![RunningCalculator](https://github.com/Malachiq-w/GitHub-Portfolio/blob/main/images/calc.png?raw=true)
 
