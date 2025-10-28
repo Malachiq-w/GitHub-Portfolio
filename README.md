@@ -8,7 +8,7 @@ This project is a visually engaging, interactive graphical calculator, designed 
 
 Crafted with attention to detail and user experience, this calculator offers a clean, intuitive layout with responsive buttons, a real-time display, and visual feedback that mimics the look and feel of a real-world handheld calculator.
 
-![UML](https://github.com/Malachiq-w/GitHub-Portfolio/blob/main/images/calculator(1).jpg)
+![UML](https://github.com/Malachiq-w/GitHub-Portfolio/blob/main/images/calculator (1).jpg)
 
 ![RunningCalculator](https://github.com/Malachiq-w/GitHub-Portfolio/blob/main/images/calc.png?raw=true)
 
