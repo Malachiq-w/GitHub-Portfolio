@@ -1,5 +1,7 @@
 # Malachi Chaya's Programming Portfolio | 2026
 
+## Personal Info: Programming I Portfolio | Malachi Chaya | Contact Info: 425148@graniteschools.org/malachi.chaya@gmail.com
+
 ## Term 1 Projects
 
 ### Calculator (2025)
