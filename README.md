@@ -2,7 +2,7 @@
 
 ## Personal Info: Programming I Portfolio | Malachi Chaya | Contact Info: 425148@graniteschools.org/malachi.chaya@gmail.com
 
-[Programming 1 Certificate] (file:///Users/425148/Malachi%20Chaya_Computer%20Programming%201_12162025.pdf)
+![Programming 1 Certificate] (file:///Users/425148/Malachi%20Chaya_Computer%20Programming%201_12162025.pdf)
 
 ## Term 1 Projects
 
@@ -19,3 +19,8 @@ Crafted with attention to detail and user experience, this calculator offers a c
 * [Windows](https://github.com/Malachiq-w/GitHub-Portfolio/blob/main/src/Calculator/windows-amd64.zip)
 * [MacOS](https://github.com/Malachiq-w/GitHub-Portfolio/blob/main/src/Calculator/macos-aarch64.zip)
 * [Source Code](https://github.com/Malachiq-w/GitHub-Portfolio/tree/main/src/Calculator)
+
+## Term 2 Projects
+
+! [Crossy Road Clone] (https://github.com/Malachiq-w/Crossy-Road-Clone-Portfolio)
+### Credits: Joshua Maki, Shivan Sharma
